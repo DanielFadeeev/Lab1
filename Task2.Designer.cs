@@ -57,7 +57,7 @@
             this.txtRectangleArea.ForeColor = System.Drawing.Color.Black;
             this.txtRectangleArea.Location = new System.Drawing.Point(361, 66);
             this.txtRectangleArea.Name = "txtRectangleArea";
-            this.txtRectangleArea.Size = new System.Drawing.Size(142, 22);
+            this.txtRectangleArea.Size = new System.Drawing.Size(171, 22);
             this.txtRectangleArea.TabIndex = 8;
             // 
             // btnExit
